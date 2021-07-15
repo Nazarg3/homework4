@@ -1,0 +1,149 @@
+
+.block1{
+    background-color: #ED4C5C;
+    max-width: 100%;
+    height: 500px;
+    font-family: 'Lato', sans-serif;
+    color: #ffffff;
+    
+}
+
+
+
+
+.block1>h2{
+    font-weight: 600;
+    font-size: 36px;
+    padding-top: 130px;
+    margin-left: 210px;
+
+}
+.block1>p{
+    font-weight: normal;
+    font-size: 16px;
+    margin-left: 210px;
+    margin-top: 50px;
+}
+.img1{
+    margin-left: 210px;
+    margin-top: 50px;
+}
+.img2{
+    margin-left: 18px;
+}
+.img3{
+    margin-left: 28px;
+    
+}
+.img4{
+    position: absolute;
+    width: 600px;
+    height: 360px;
+    left: 850px;
+    top: 105px;
+    margin-left: 150px;
+  
+}
+.block2{
+    margin: 94px 260px 95px 125px ;
+    width: 445px;
+    height: 311px;
+}
+
+main{
+    width: 1440px;
+    height: 500px;
+    display: flex;
+    align-items: baseline;
+    font-family: 'Lato', sans-serif;
+}
+.block2>h3{
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 43px;
+    color: #000000;
+    margin-left: 90px;
+}
+.block2>p{
+    font-size: 14px;
+    line-height: 140%;
+    text-align: justify;
+    color: #000000;
+    margin-left: 90px;
+
+}
+
+.name_input{
+    width: 190px;
+    height: 40px;
+    left: 735px;
+    border: 1px solid #333333;
+    box-sizing: border-box;
+    border-radius: 6px;
+    margin-bottom: 30px;
+    font-size: 16px;
+    line-height: 19px;
+    color: rgba(19, 39, 67, 0.5);
+    padding-left: 32px;
+    
+
+    
+}
+.last_name{
+    width: 190px;
+    height: 40px;
+    border: 1px solid #333333;
+    box-sizing: border-box;
+    border-radius: 6px;
+    margin-left: 30px; 
+    padding-left: 32px;
+}
+.input_items{
+    width: 414px;
+    height: 40px;
+    border: 1px solid #333333;
+    box-sizing: border-box;
+    border-radius: 6px;
+    margin-bottom: 24px;
+    padding-left: 32px;
+}
+button{
+   width: 160px;
+   height: 50px;
+   background: #ED4C5C;
+   border: 1.5px solid #ED4C5C;
+   box-sizing: border-box;
+   border-radius: 6px;
+   color: #FFFFFF;
+
+}
+footer{
+    font-family: 'Lato', sans-serif;
+}
+.block3{
+    display: inline-flex;
+    margin-left: 170px;
+    
+}
+.block4{
+    display: flex;
+    
+}
+.address{
+    margin-left: 220px;
+}
+.services{
+    margin-left: 180px;
+}
+.getintouch{
+    margin-left: 180px;
+
+}
+.wesupport{
+    margin-left: 200px;
+}
+.fo{
+    margin-left: 220px;
+    margin-top: 70px;
+    
+}
